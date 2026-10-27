@@ -1,0 +1,141 @@
+{
+    "last_used": "Ayushman 2",
+    "cards": {
+        "Aadhar Card": {
+            "photo_box": [
+                91,
+                138,
+                300,
+                391
+            ]
+        },
+        "PAN UTI": {
+            "photo_box": [
+                41,
+                156,
+                202,
+                316
+            ]
+        },
+        "Ayushman 1": {
+            "photo_box": [
+                22,
+                186,
+                190,
+                418
+            ]
+        },
+        "ABHA Card": {
+            "photo_box": [
+                88,
+                336,
+                353,
+                670
+            ]
+        },
+        "JAN Aadhar": {
+            "photo_box": [
+                61,
+                208,
+                239,
+                448
+            ]
+        },
+        "Ayushman 2": {
+            "photo_box": [
+                40,
+                170,
+                231,
+                404
+            ]
+        },
+        "Child Aadhar": {
+            "photo_box": [
+                91,
+                138,
+                300,
+                391
+            ]
+        },
+        "MANUAL PAN": {
+            "photo_box": [
+                41,
+                163,
+                213,
+                331
+            ]
+        },
+        "Farmer ID": {
+            "photo_box": [
+                27,
+                182,
+                256,
+                456
+            ]
+        },
+        "bocw": {
+            "photo_box": [
+                47,
+                207,
+                217,
+                405
+            ]
+        },
+        "Manual DL": {
+            "photo_box": [
+                811,
+                144,
+                949,
+                311
+            ]
+        },
+        "MahaSarthi Card": {
+            "photo_box": [
+                47,
+                298,
+                346,
+                596
+            ]
+        },
+        "Voter New": {
+            "photo_box": [
+                32,
+                223,
+                265,
+                538
+            ]
+        },
+        "Voter Old": {
+            "photo_box": [
+                30,
+                234,
+                273,
+                556
+            ]
+        },
+        "MAHA ID": {
+            "photo_box": [
+                62,
+                215,
+                343,
+                514
+            ]
+        },
+        "tn ration": {
+            "photo_box": [
+                32,
+                261,
+                240,
+                499
+            ]
+        },
+        "PAN Protean": {
+            "photo_box": [
+                24,
+                136,
+                194,
+                315
+            ]
+        }
+    }
+}
